@@ -1,0 +1,9 @@
+# ignore following files from pretteir
+/.vscode
+/node_modules
+# distribution related
+./dist 
+
+*.env
+.env
+.env.*
